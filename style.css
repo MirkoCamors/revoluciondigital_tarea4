@@ -1,0 +1,22 @@
+body{
+  background-color: gainsboro;
+}
+header{
+  background-color: gray;  
+}
+.rembla, .remneg, .remroj {
+  width: 300px;
+}
+.Lun, .Mar, .Jue{
+  background-color: steelblue;
+}
+.Mie, .Vie, .Sab{
+  background-color:teal
+}
+.Dom{
+  background-color:cadetblue;
+}
+table{
+  border-style: solid;
+  background-color:gray;
+}
